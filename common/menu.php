@@ -18,11 +18,10 @@
                 <li><a href="#">人事管理</a></li>
                 <li><a href="#">财务管理</a></li>
                 <li><a href="#">直播卖货</a></li>
-
             </ul>
         </li>
 
-<!--        <li><a href="portfolio.php">成功案例</a></li>-->
+       <li><a href="portfolio.php">成功案例</a></li>
         <!--          <li><a href="team.html">团队</a></li>-->
         <!--          <li><a href="blog.html">公司博客</a></li>-->
         <li><a href="contact.php">联系我们</a></li>
