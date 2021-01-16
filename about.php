@@ -24,7 +24,7 @@ include 'common/header.php';
         <div class="d-flex justify-content-between align-items-center">
           <h2>关于我们</h2>
           <ol>
-            <li><a href="index.html">首页</a></li>
+            <li><a href="index.php">首页</a></li>
             <li>关于我们</li>
           </ol>
         </div>
